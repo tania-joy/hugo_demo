@@ -1,4 +1,4 @@
-baseURL = "https://tania-joy.github.io/hugo_demo/"
+baseURL = "/"
 languageCode = "en-us"
 publishDir = "docs"
 title = "Hugo Example Blog"
