@@ -1,0 +1,19 @@
+{{ partial "header.html" . }}
+
+<body>
+    <div class="container">
+        <div class="row">
+            <div class="col-md-12">
+                <h1>Single - {{.Title}}</h1>
+                Description:{{.Description}}
+               
+                {{.Content}}
+                <aside>
+                TableOfContents:
+                    {{ .TableOfContents }}
+                </aside>
+            </div>
+        </div>
+        {{ partial "footer.copyright.html" . }}
+    </div>
+    {{ partial "footer.html" . }}

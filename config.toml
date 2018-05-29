@@ -1,0 +1,5 @@
+baseURL = "http://localhost:35108/"
+languageCode = "en-us"
+title = "Hugo Example Blog"
+canonifyURLs = true
+paginate = 2

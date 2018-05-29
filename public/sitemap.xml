@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>http://localhost:35108/overview/</loc>
+    <lastmod>2018-05-28T14:57:30+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:35108/okrs/</loc>
+    <lastmod>2018-05-28T14:55:03+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:35108/methods/</loc>
+    <lastmod>2018-05-28T14:54:21+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:35108/kpis/</loc>
+    <lastmod>2018-05-28T14:53:01+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:35108/</loc>
+    <lastmod>2018-05-28T14:52:00+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:35108/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:35108/tags/</loc>
+    <priority>0</priority>
+  </url>
+  
+</urlset>

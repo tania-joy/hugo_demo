@@ -1,0 +1,13 @@
+
+<div class="sidebar-nav">
+    <ul>
+        {{ range .Paginator.Pages }}
+        <li>
+            <a href="{{ .Title | lower | absURL }}">
+            {{ .Title }}
+            </a>
+        </li>
+        {{ end }}
+    </ul>
+    {{ template "_internal/pagination.html" . }}
+</div>
