@@ -2,48 +2,48 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Home on Hugo Example Blog</title>
-    <link>/</link>
+    <link>https://tania-joy.github.io/hugo_demo/</link>
     <description>Recent content in Home on Hugo Example Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 28 May 2018 14:52:00 +0530</lastBuildDate>
     
-	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://tania-joy.github.io/hugo_demo/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Overview</title>
-      <link>/overview/</link>
+      <link>https://tania-joy.github.io/hugo_demo/overview/</link>
       <pubDate>Mon, 28 May 2018 14:57:30 +0530</pubDate>
       
-      <guid>/overview/</guid>
+      <guid>https://tania-joy.github.io/hugo_demo/overview/</guid>
       <description> The content of Overview The content of Overview The content of Overview </description>
     </item>
     
     <item>
       <title>Okrs</title>
-      <link>/okrs/</link>
+      <link>https://tania-joy.github.io/hugo_demo/okrs/</link>
       <pubDate>Mon, 28 May 2018 14:55:03 +0530</pubDate>
       
-      <guid>/okrs/</guid>
+      <guid>https://tania-joy.github.io/hugo_demo/okrs/</guid>
       <description>The content of okrs Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</description>
     </item>
     
     <item>
       <title>Methods</title>
-      <link>/methods/</link>
+      <link>https://tania-joy.github.io/hugo_demo/methods/</link>
       <pubDate>Mon, 28 May 2018 14:54:21 +0530</pubDate>
       
-      <guid>/methods/</guid>
+      <guid>https://tania-joy.github.io/hugo_demo/methods/</guid>
       <description> The content of methods The content of methods The content of methods </description>
     </item>
     
     <item>
       <title>KPIs</title>
-      <link>/kpis/</link>
+      <link>https://tania-joy.github.io/hugo_demo/kpis/</link>
       <pubDate>Mon, 28 May 2018 14:53:01 +0530</pubDate>
       
-      <guid>/kpis/</guid>
+      <guid>https://tania-joy.github.io/hugo_demo/kpis/</guid>
       <description> The content of kpis The content of kpis The content of kpis </description>
     </item>
     
