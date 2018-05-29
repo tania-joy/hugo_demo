@@ -1,5 +1,11 @@
-baseURL = "http://localhost:35108/"
+baseURL = "https://github.com/tania-joy/hugo_demo/"
 languageCode = "en-us"
+publishDir = "docs"
 title = "Hugo Example Blog"
 canonifyURLs = true
 paginate = 2
+
+
+
+
+
